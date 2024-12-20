@@ -1,5 +1,5 @@
-local lastApiVersion = 1.5
-local lastRecorderVersion = 1.8
+local lastApiVersion = "1.53"
+local lastRecorderVersion = "1.81"
 local branch = "public-alpha"
 
 return function()
